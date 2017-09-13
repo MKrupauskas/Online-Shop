@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background: yellow;
+  padding: 10px 0 10px 0;
+}
+
+.thumbnails {
+  list-style: none;
+  text-align: center;
+}
+.thumbnails li {
+  display: inline;
+}
+
+section img {
+  border: gray 1px solid;
+}
